@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ~ kekim20@naver.com
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kekim20)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kekim20)](https://solved.ac/kekim20)
 
 
