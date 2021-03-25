@@ -10,4 +10,4 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GyeongEun-Kim/)](https://github.com/GyeongEun-Kim/) 
 	
   </div>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kekim20)](https://solved.ac/kekim20)
+
