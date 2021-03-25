@@ -11,3 +11,4 @@
 	
   </div>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kekim20)](https://solved.ac/kekim20)
