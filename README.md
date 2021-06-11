@@ -1,7 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=663fcdee&height=210&section=header&text=GyeongEun-Kim's%20Github&fontSize=50&animation=fadeIn&fontAlign=63&fontColor=e8d2ff&fontAlignY=40)
-	
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=663fcdee&height=210&section=header&text=GyeongEun-Kim's%20Github&fontSize=50&animation=fadeIn&fontAlign=63&fontColor=e8d2ff&fontAlignY=40)
+-->	
 
 
 	
